@@ -1,0 +1,4 @@
+VBGROUP 5.0
+StartupProject=ClientApp.vbp
+Project=BusinessObjects.vbp
+Project=DataObjects.vbp
